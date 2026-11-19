@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Manhwa PDF Maker</string>
+    <string name="nav_home">Home</string>
+    <string name="nav_import">Import</string>
+    <string name="nav_arrange">Arrange</string>
+    <string name="nav_settings">Settings</string>
+    <string name="nav_ocr">OCR</string>
+    <string name="nav_preview">Preview</string>
+    <string name="nav_history">History</string>
+    <string name="home_subtitle">Offline Lossless Manhwa Studio</string>
+    <string name="error_insufficient_storage">Insufficient storage space to complete the PDF safely. Free up storage and try again.</string>
+    <string name="error_export_cancelled">Export was cancelled. No incomplete PDF was saved.</string>
+    <string name="error_pdf_validation">PDF integrity verification failed. Please retry exporting.</string>
+</resources>

@@ -1,0 +1,6 @@
+{
+  "name": "Manhwa PDF Maker",
+  "description": "Offline studio for converting 200+ high-resolution manhwa pages into lossless, numbered PDFs with on-device multi-language OCR.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
